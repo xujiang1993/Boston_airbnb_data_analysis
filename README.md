@@ -9,7 +9,7 @@
 ## Installation
 This work requires installation of *numpy*, *pandas*, *matplotlib*, *plotly*, *wordcloud*, *re* and *nltk*. The code should run with no issues using Python versions 3.
 ## Project Motivation
-This work is interested into how neighborhood would affect price, customer satisfaction and availability of the rental property. To evaluate this, the blog will answer the following questions:
+This work is interested into how neighborhood of Boston Airbnb would affect the price, customer satisfaction and availability of the rental property. To evaluate this, the blog will answer the following questions:
 
 * Can you describe the vibe of each Boston neighborhood using listing descriptions?
 * What features of neighborhoods are important for customer book a property?
