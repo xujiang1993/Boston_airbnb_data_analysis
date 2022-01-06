@@ -27,4 +27,4 @@ This blog has done following things which can support airbnb business:
 * The busiest time and price spikes for Boston airbnb are around Sep and Oct
 * The good strategy depends on the availability, price per accommodate and customer review scores of each neighborhood. Generally, it should be worthwhile to promote more hosts in low availability areas and improve customer satisction in lower review scores area. The price of neighborhood could be info to determine whether it is good to improve the customer satisfaction and availability through adjusting price.
 ## Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston). Otherwise, feel free to use the code here as you would like!
+Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston). Otherwise, feel free to use the code here as you would like!
